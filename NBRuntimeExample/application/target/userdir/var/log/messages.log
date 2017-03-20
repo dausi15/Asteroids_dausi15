@@ -1,0 +1,118 @@
+-------------------------------------------------------------------------------
+>Log Session: Friday, March 17, 2017 12:35:47 PM CET
+>System Info: 
+  Product Version         = NetBeans Platform 8.1 (Build 201510222201)
+  Operating System        = Windows 10 version 10.0 running on amd64
+  Java; VM; Vendor        = 1.8.0_101; Java HotSpot(TM) 64-Bit Server VM 25.101-b13; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_101-b13
+  Java Home               = C:\Program Files\Java\jdk1.8.0_101\jre
+  System Locale; Encoding = da_DK (nbruntimeexample); Cp1252
+  Home Directory          = C:\Users\Daniel
+  Current Directory       = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample
+  User Directory          = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\userdir
+  Cache Directory         = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\userdir\var\cache
+  Installation            = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\bin
+                            C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\etc
+                            C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample
+                            C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform
+                            C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform
+  Boot & Ext. Classpath   = C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\boot.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\org-openide-modules.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\org-openide-util-lookup.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\org-openide-util-ui.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\org-openide-util.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\boot_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\boot_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\boot_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\boot_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-modules_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-modules_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-ui_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-ui_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-ui_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util-ui_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files\Java\jdk1.8.0_101\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_101\lib\tools.jar
+  Startup Classpath       = C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\asm-all-5.0.1.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\core-base.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\core.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\org-netbeans-libs-asm.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\org-openide-filesystems.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core-base_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core-base_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core-base_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core-base_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\core_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-netbeans-libs-asm_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-netbeans-libs-asm_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-netbeans-libs-asm_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-netbeans-libs-asm_zh_CN.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-openide-filesystems_ja.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-openide-filesystems_ru.jar;C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\platform\core\locale\org-openide-filesystems_zh_CN.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\..\..\..\SilentUpdate\target\classes
+INFO [org.netbeans.core.modules]: Using file:/C:/Users/Daniel/Documents/4_Semester/NBRuntimeExample/application/target/nbruntimeexample/../../../SilentUpdate/target/classes/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml as layer for dk.sdu.mmmi.cbse.SilentUpdate not jar:file:/C:/Users/Daniel/Documents/4_Semester/NBRuntimeExample/application/target/nbruntimeexample/nbruntimeexample/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar!/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.32.1 201510222201]
+	org.openide.util [9.5.1 201510222201]
+	org.openide.util.ui [9.4.1 201510222201]
+	org.openide.modules [7.47.1 201510222201]
+	org.netbeans.api.annotations.common/1 [1.26.1 201510222201]
+	org.openide.filesystems [9.8.1 201510222201]
+	org.netbeans.api.intent [1.1.1 201510222201]
+	org.netbeans.api.io [1.2.1 201510222201]
+	org.openide.io [1.48.1 201510222201]
+	org.openide.awt [7.65.1 201510222201]
+	org.netbeans.api.progress/1 [1.46.1 201510222201]
+	org.netbeans.libs.asm [5.2.1 201510222201]
+	org.netbeans.bootstrap/1 [2.74.1 201510222201]
+	org.netbeans.core.startup.base [1.61.1.1 1 201510222201]
+	org.netbeans.core.startup/1 [1.61.1.1 201510222201]
+	org.netbeans.api.progress.nb [1.46.1 201510222201]
+	org.netbeans.modules.autoupdate.services [1.51.1 201510222201]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0 1.0-20170317 201703171132]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20170317 201703171127]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20170317 201703171128]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20170317 201703171128]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20170317 201703171128]
+	dk.sdu.mmmi.cbse.Collision [1.0 1.0-20170317 201703171127]
+	dk.sdu.mmmi.cbse.Bullet [1.0 1.0-20170317 201703171127]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20170317 201703171126]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Asteroid[dk.sdu.mmmi.cbse.Asteroid/1.0]
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20170317 201703171126]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+Turning off modules...
+Stopping Asteroid
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Asteroid[dk.sdu.mmmi.cbse.Asteroid/1.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Asteroid.nbm
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml@0
+INFO [org.netbeans.updater]: Copied file netbeans/config/Modules/dk-sdu-mmmi-cbse-Asteroid.xml to C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\modules\dk-sdu-mmmi-cbse-Asteroid.jar@0
+INFO [org.netbeans.updater]: Copied file netbeans/modules/dk-sdu-mmmi-cbse-Asteroid.jar to C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\modules\dk-sdu-mmmi-cbse-Asteroid.jar
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update\download\dk-sdu-mmmi-cbse-Asteroid.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@53640af0
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update_tracking\dk-sdu-mmmi-cbse-Asteroid.xml modified.
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update_tracking\dk-sdu-mmmi-cbse-Asteroid.xml@0
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update\download\additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20170317 201703171126]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Starting modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Enemy[dk.sdu.mmmi.cbse.Enemy/1.0]
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20170317 201703171128]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+Turning off modules...
+Stopping Enemy
+Turning off modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Enemy[dk.sdu.mmmi.cbse.Enemy/1.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Enemy.nbm
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\config\Modules\dk-sdu-mmmi-cbse-Enemy.xml@0
+INFO [org.netbeans.updater]: Copied file netbeans/config/Modules/dk-sdu-mmmi-cbse-Enemy.xml to C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\config\Modules\dk-sdu-mmmi-cbse-Enemy.xml
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\modules\dk-sdu-mmmi-cbse-Enemy.jar@0
+INFO [org.netbeans.updater]: Copied file netbeans/modules/dk-sdu-mmmi-cbse-Enemy.jar to C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\modules\dk-sdu-mmmi-cbse-Enemy.jar
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update\download\dk-sdu-mmmi-cbse-Enemy.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@6d9162a9
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update_tracking\dk-sdu-mmmi-cbse-Enemy.xml modified.
+INFO [org.netbeans.updater]: File installed C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update_tracking\dk-sdu-mmmi-cbse-Enemy.xml@0
+INFO [org.netbeans.updater]: File C:\Users\Daniel\Documents\4_Semester\NBRuntimeExample\application\target\nbruntimeexample\nbruntimeexample\update\download\additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20170317 201703171128]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Starting modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
