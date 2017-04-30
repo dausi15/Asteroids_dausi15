@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.commonAsteroid">
+    <module_version install_time="1493573336880" last="true" origin="installer" specification_version="1.0">
+        <file crc="1012375073" name="config/Modules/dk-sdu-mmmi-cbse-commonAsteroid.xml"/>
+        <file crc="2512000950" name="modules/dk-sdu-mmmi-cbse-commonAsteroid.jar"/>
+    </module_version>
+</module>

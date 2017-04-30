@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.SpringPlayerClient">
+    <module_version install_time="1493573335029" last="true" origin="installer" specification_version="1.0">
+        <file crc="127110654" name="config/Modules/dk-sdu-mmmi-cbse-SpringPlayerClient.xml"/>
+        <file crc="2133879353" name="modules/dk-sdu-mmmi-cbse-SpringPlayerClient.jar"/>
+        <file crc="964851370" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/aopalliance/aopalliance.jar"/>
+        <file crc="2708636039" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframework/spring-aop.jar"/>
+        <file crc="1760963619" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframework/spring-beans.jar"/>
+        <file crc="160052140" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframework/spring-context.jar"/>
+        <file crc="1880493333" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframework/spring-core.jar"/>
+        <file crc="967140435" name="modules/ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframework/spring-expression.jar"/>
+    </module_version>
+</module>

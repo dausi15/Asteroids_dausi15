@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.SpringPlayerPlugin">
+    <module_version install_time="1493573336895" last="true" origin="installer" specification_version="1.0">
+        <file crc="99228709" name="config/Modules/dk-sdu-mmmi-cbse-SpringPlayerPlugin.xml"/>
+        <file crc="3704688853" name="modules/dk-sdu-mmmi-cbse-SpringPlayerPlugin.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/springplayerclient/
+ Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20170430
+OpenIDE-Module-Build-Version: 201704301728
+OpenIDE-Module: dk.sdu.mmmi.cbse.SpringPlayerClient
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
+OpenIDE-Module-Name: SpringPlayerClient
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-springframew
+ ork/spring-context.jar ext/dk.sdu.mmmi.cbse.SpringPlayerClient/org-sp
+ ringframework/spring-aop.jar ext/dk.sdu.mmmi.cbse.SpringPlayerClient/
+ aopalliance/aopalliance.jar ext/dk.sdu.mmmi.cbse.SpringPlayerClient/o
+ rg-springframework/spring-beans.jar ext/dk.sdu.mmmi.cbse.SpringPlayer
+ Client/org-springframework/spring-core.jar ext/dk.sdu.mmmi.cbse.Sprin
+ gPlayerClient/org-springframework/spring-expression.jar
+Maven-Class-Path: org.springframework:spring-context:4.1.5.RELEASE org
+ .springframework:spring-aop:4.1.5.RELEASE aopalliance:aopalliance:1.0
+  org.springframework:spring-beans:4.1.5.RELEASE org.springframework:s
+ pring-core:4.1.5.RELEASE org.springframework:spring-expression:4.1.5.
+ RELEASE
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, dk.sdu.mmmi.cbse.commonPlayer > 1.0, dk.sdu.mmmi.cbse.S
+ pringPlayerPlugin > 1.0, dk.sdu.mmmi.cbse.Common > 1.0, org.openide.u
+ til.lookup > 8.32.1, org.apache.commons.logging > 1.2.0, dk.sdu.mmmi.
+ cbse.SpringPlayerProcessor > 1.0
+

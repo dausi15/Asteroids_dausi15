@@ -1,0 +1,11 @@
+platform=1493573349458
+cluster.bin=1493573349458
+cluster.etc=1493573349458
+cluster.nbruntimeexample=1493573349458
+cluster.platform=1493573349458
+user=1493573349458
+crc=7
+locale=da_DK
+branding=nbruntimeexample
+java.version=1.8.0_101
+java.vm.version=25.101-b13

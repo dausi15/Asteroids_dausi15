@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/springplayerprocess
+ or/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20170430
+OpenIDE-Module-Build-Version: 201704301728
+OpenIDE-Module: dk.sdu.mmmi.cbse.SpringPlayerProcessor
+OpenIDE-Module-Public-Packages: dk.sdu.mmmi.cbse.springplayerprocessor
+ .*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
+OpenIDE-Module-Name: SpringPlayerProcessor
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, dk.sdu.mmmi.cbse.Common > 1.0, org.openide.util.lookup 
+ > 8.32.1, dk.sdu.mmmi.cbse.commonPlayer > 1.0, dk.sdu.mmmi.cbse.commo
+ nBullet > 1.0
+
